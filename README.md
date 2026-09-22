@@ -2,14 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0a77b6&height=200&section=header&text=Kaixo!%20I'm%20Jon%20👋&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%" />
 
   <h3>Full Stack Developer | Backend Specialist</h3>
-  # <p>Building robust platforms from Sopuerta, Spain 🇪🇸</p>
 
-  # <a target="_blank" href="https://www.linkedin.com/in/enekolazaroalba">
-  #  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-  # </a>
-  # <a target="_blank" href="https://www.instagram.com/elazaroo_">
-  #  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
-  # </a>
 </div>
 
 ---
@@ -18,20 +11,19 @@
 
 I am a full-stack developer with a strong background in cross-platform and web application development (DAM/DAW). I am currently expanding my knowledge of artificial intelligence and big data, to give intelligent solutions that provide real value to businesses.
 
-- 💼 **I have worked as:** a developer at **Indasistemas**, where I focused on developing automations for the Sage ERP system and data analysis
-- 🛠️ **Current Focus:** Studying LLMs, Data Science, and emerging AI tools to build smarter, data-driven applications.
-- 🤖 **Workflow:** Maximizing productivity and code quality using AI-driven development tools like **Claude Code**, **GitHub Copilot**, and custom MCP servers.
-- 🏠 **Beyond Code:** In my free time, you'll find me managing my **Home Assistant / CasaOS** lab on an Orange Pi, tinkering with automotive electronic diagnostics (INPA, NCS Expert, DiagBox).
+- **I have worked as:** a developer at **Indasistemas**, where I focused on developing automations for the Sage ERP system and data analysis
+- **Current Focus:** Studying LLMs, Data Science, and emerging AI tools to build smarter, data-driven applications.
+- **Workflow:** Maximizing productivity and code quality using AI-driven development tools like **Claude Code**, **GitHub Copilot**, and custom MCP servers.
 
 ---
 
 ### Featured Projects & Apps
 
-*   🏠 **Beyond Code:** In my free time, you'll find me managing my **Home Assistant / CasaOS** lab on an Orange Pi, tinkering with automotive electronic diagnostics (INPA, NCS Expert, DiagBox).
-*   📱 **Security app** - Native Android application to control and monitor a USB home camera remotely.
+*    **Beyond Code:** In my free time, you'll find me managing my **Home Assistant / CasaOS** lab on an Orange Pi, tinkering with automotive electronic diagnostics (INPA, NCS Expert, DiagBox).
+*   **Security app** - Native Android application to control and monitor a USB home camera remotely.
 ---
 
-### 💻 Tech Arsenal
+### Tech Arsenal
 
 <div align="center">
 

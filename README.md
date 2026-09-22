@@ -1,70 +1,57 @@
-<h1 align="center"><b>Hi , I'm Jon Gutierrez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a77b6&height=200&section=header&text=Kaixo!%20I'm%20Jon%20👋&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%" />
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer,;Team+Player,;Creative+Thinker,;Active+Learner/Researcher,;Love+to+learn+new+stuffs.."></a>
-</p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+  <h3>Full Stack Developer | Backend Specialist</h3>
+  # <p>Building robust platforms from Sopuerta, Spain 🇪🇸</p>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
+  # <a target="_blank" href="https://www.linkedin.com/in/enekolazaroalba">
+  #  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  # </a>
+  # <a target="_blank" href="https://www.instagram.com/elazaroo_">
+  #  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+  # </a>
+</div>
 
-<p align="center">
+---
 
-- **Languages**:
-    
-<p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" /> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> 
-  </a>  
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> 
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> 
-  </a> 
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" /> 
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
-  </a>
-   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" /> 
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" /> 
-  </a>
-</p>
-<h2>Statistical Data : </h2>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=JoonGut&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
-    bg_color=#808080/></p>
+### About Me
 
-<br>
+I am a full-stack developer with a strong background in cross-platform and web application development (DAM/DAW). I am currently expanding my knowledge of artificial intelligence and big data, to give intelligent solutions that provide real value to businesses.
 
+- 💼 **I have worked as:** a developer at **Indasistemas**, where I focused on developing automations for the Sage ERP system and data analysis
+- 🛠️ **Current Focus:** Studying LLMs, Data Science, and emerging AI tools to build smarter, data-driven applications.
+- 🤖 **Workflow:** Maximizing productivity and code quality using AI-driven development tools like **Claude Code**, **GitHub Copilot**, and custom MCP servers.
+- 🏠 **Beyond Code:** In my free time, you'll find me managing my **Home Assistant / CasaOS** lab on an Orange Pi, tinkering with automotive electronic diagnostics (INPA, NCS Expert, DiagBox).
 
+---
 
+### Featured Projects & Apps
 
+*   🏠 **Beyond Code:** In my free time, you'll find me managing my **Home Assistant / CasaOS** lab on an Orange Pi, tinkering with automotive electronic diagnostics (INPA, NCS Expert, DiagBox).
+*   📱 **Security app** - Native Android application to control and monitor a USB home camera remotely.
+---
 
-<br> 
+### 💻 Tech Arsenal
 
+<div align="center">
 
+**Backend & Frameworks**<br>
+<img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+
+**Databases**<br>
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server"/>
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+
+**Cloud, DevOps & AI**<br>
+<img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+<img src="https://img.shields.io/badge/github%20copilot-%23FFFFFF.svg?style=for-the-badge&logo=github-copilot&logoColor=black" alt="GitHub Copilot"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="AWS"/>
+
+</div>

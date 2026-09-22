@@ -44,6 +44,6 @@ I am a full-stack developer with a strong background in cross-platform and web a
 <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
 <img src="https://img.shields.io/badge/github%20copilot-%23FFFFFF.svg?style=for-the-badge&logo=github-copilot&logoColor=black" alt="GitHub Copilot"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
 
 </div>

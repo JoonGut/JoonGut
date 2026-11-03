@@ -19,8 +19,7 @@ I am a full-stack developer with a strong background in cross-platform and web a
 
 ### Featured Projects & Apps
 
-*    **Beyond Code:** In my free time, you'll find me managing my **Home Assistant / CasaOS** lab on an Orange Pi, tinkering with automotive electronic diagnostics (INPA, NCS Expert, DiagBox).
-*   **Security app** - Native Android application to control and monitor a USB home camera remotely.
+*    **Beyond Code:** In my free time, you'll find me managing my **Home Assistant / CasaOS** lab on an Orange Pi, tinkering with automotive electronic diagnostics.
 ---
 
 ### Tech Arsenal
